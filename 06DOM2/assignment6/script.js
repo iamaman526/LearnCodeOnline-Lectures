@@ -45,7 +45,6 @@ function generateList() {
     });
 }
 
-// generateList();
 
 window.addEventListener("load", generateList);
 
