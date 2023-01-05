@@ -6,4 +6,5 @@ if (true) {
   let lastName = "kumar";
 }
 
+
 console.log(lastName);
